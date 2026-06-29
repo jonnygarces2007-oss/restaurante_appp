@@ -116,3 +116,6 @@ Código: 102 | Nombre: Juan Pérez | Correo: juan@correo.com | Estado: Cliente o
 
 
 El proyecto está organizado de forma modular, lo que significa que si en el futuro queremos agregar nuevas funciones o incluso crear clases adicionales, podremos hacerlo sin tener que cambiar la estructura principal que ya funciona. Se puso mucho cuidado en usar nombres claros y una lógica sencilla, para que sea fácil de leer, entender y aprender los conceptos básicos de la Programación Orientada a Objetos.
+
+
+Es la realizacion de mi trabajo JHONNY JAVIER GARCES ALMEIDA 
